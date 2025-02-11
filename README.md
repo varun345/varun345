@@ -163,6 +163,50 @@ Android , Native Platform Apps , Hybrid Apps , Cross Platform Apps
       <br>Sui
     </td>
   </tr>
+
+  <tr>
+  <td align="center" width="90">
+      <img src="./icons/1.png" height="45" >
+      <br>NFT
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/2.png" height="45" >
+      <br>Arbitrum
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/3.png" height="45" >
+      <br>Avalanche
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/4.svg" height="45" >
+      <br>BSC
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/5.png" height="45" >
+      <br>Celo
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/6.png" height="45" >
+      <br>Chainlink
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/7.png" height="45" >
+      <br>Fantom
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/8.png" height="45" >
+      <br>Moon River
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/9.png" height="45" >
+      <br>Optimism
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/10.png" height="45" >
+      <br>Multiversx
+    </td>
+  </tr>
+  
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" />
@@ -204,6 +248,34 @@ Android , Native Platform Apps , Hybrid Apps , Cross Platform Apps
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="svelte" />
       <br>MongoDB
     </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="./icons/11.png" width="45" height="45"  />
+      <br>CodeIgnitor
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/12.png" width="45" height="45" />
+      <br>Woocommerce
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/13.png" width="45" height="45" />
+      <br>Symfony
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/14.png" width="45" height="45" />
+      <br>CakePhp
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/15.png" width="45" height="45" />
+      <br>Yii
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/16.png" alt="icon" width="55" height="55" />
+      <br>Wordpress
+    </td>
+
   </tr>
   
 </table>
