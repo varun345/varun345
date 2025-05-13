@@ -1,10 +1,10 @@
 ## About Me
 
 ### 10 more years experience in Software, ERP / CRM, Mobile Apps & Web development
-### 5 more years experience in blockchain & web3 development
-### 4 more years experience in in AI
+### 4 more years experience in blockchain & web3 development
+### 4 more years experience in AI
 
-I'm a software developer & Blockchain enthusist offering cutting edge Solution and Top notch products in various Industries. I provide services in various field like custom Software Development, Blockchain Development, Smart Contract Development, Full Stack Development , Web Apps Development , Mobile App Development, API development, Trading BOT development, Plugin Customisation & Web Design and Development. I have 10+ year experience in field of Blockchain, Php, Python, React, Vue, Node, Android and other MVC framework .
+I'm a software developer & Blockchain enthusist offering cutting edge Solution and Top notch products in various Industries. I provide services in various field like custom Software Development, Blockchain Development, Smart Contract Development, Full Stack Development , Web Apps Development , Mobile App Development, API development, Trading BOT development, Plugin Customisation & Web Design and Development. I have 10+ year experience in field of Software, Blockchain, Php, Python, React, Vue, Node, Android and other MVC framework .
 
 ### Expertise in :
 
